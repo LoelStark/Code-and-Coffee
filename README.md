@@ -4,7 +4,7 @@ Your one-stop shop for quality coffee and debugging.
 
 Welcome to Code and Coffee, a cozy and developer-themed login webpage that blends aesthetics with functionality. This project showcases a clean UI, custom styling, and a warm, coffee-inspired design perfect for student projects, portfolio pieces, or full-stack experimentation.
 
-#✨ Features
+# Features
 
 🔐 Login Interface — Clean username & password input boxes
 
@@ -20,7 +20,7 @@ Welcome to Code and Coffee, a cozy and developer-themed login webpage that blend
 
 😊 Friendly Developer-Themed Messaging (“Have a CODE-TASTIC DAY!”)
 
-#🛠️ Technologies Used
+# Technologies Used
 
 HTML5
 
@@ -29,7 +29,7 @@ CSS3
 
 Visual assets (coffee cup background)
 
-#📂 Project Structure
+# Project Structure
 /
 ├── index.html
 ├── style.css
@@ -37,7 +37,7 @@ Visual assets (coffee cup background)
 │   └── background.jpg
 └── README.md
 
-#🚀 How to Run Locally
+# How to Run Locally
 
 Clone the repository:
 
@@ -55,12 +55,12 @@ Double-click the file, or
 
 Use a live server extension (VS Code recommended)
 
-#📘 About the Project
+# About the Project
 
 This website was created to combine two passions:
 Great coffee and great code.
 
-#It features:
+# It features:
 
 A warm, comforting UI inspired by coffee shop vibes
 
@@ -70,16 +70,16 @@ A beginner-friendly yet visually appealing layout
 
 Use it as a template, portfolio project, or the starting point for a full authentication system.
 
-#🤝 Contributing
+# Contributing
 
 Contributions, ideas, and improvements are welcome!
 Feel free to fork the repo, submit PRs, or open issues.
 
-#📜 License
+# License
 
 This project is licensed under the MIT License — free to use and modify.
 
-#☕ Thank You!
+# Thank You!
 
 If you enjoyed this project, consider giving the repo a ⭐
 Have a CODE-TASTIC DAY! 😄
