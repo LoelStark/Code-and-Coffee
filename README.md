@@ -1,4 +1,4 @@
-☕ # Code and Coffee
+ # Code and Coffee
 
 Your one-stop shop for quality coffee and debugging.
 
