@@ -24,6 +24,8 @@ Welcome to Code and Coffee, a cozy and developer-themed login webpage that blend
 
 HTML5
 
+PYTHON (flask)
+
 CSS3
 ...more will be added soon.
 
@@ -44,7 +46,7 @@ Clone the repository:
 git clone https://github.com/LoelStark/code-and-coffee.git
 
 
-#Navigate into the project:
+Navigate into the project:
 
 cd code-and-coffee
 
